@@ -1,0 +1,19 @@
+p{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
